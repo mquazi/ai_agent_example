@@ -7,7 +7,7 @@ python-multipart==0.0.6
 pyPDF2==3.0.1
 faiss-cpu==1.7.4
 transformers==4.36.2
-torch==2.1.2
+torch==2.8.0
 langchain-community==0.0.20
 langchain-core==0.1.23
 tiktoken>=0.5.2,<0.6.0
