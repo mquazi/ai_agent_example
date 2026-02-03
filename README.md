@@ -26,7 +26,7 @@ This is a simple AI-powered web app built using **LangChain**, **Streamlit**, an
 ```bash
 # Clone the repository
 git clone https://github.com/mquazi/ai_agent_example.git
-cd ai_agent
+cd ai_agent_example
 
 # Create and activate a virtual environment
 python -m venv .venv
