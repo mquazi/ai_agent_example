@@ -3,7 +3,7 @@ streamlit==1.10.0
 langchain==0.1.0
 openai>=1.10.0
 python-dotenv==1.0.0
-python-multipart==0.0.6
+python-multipart==0.0.22
 pyPDF2==3.0.1
 faiss-cpu==1.7.4
 transformers==4.36.2
